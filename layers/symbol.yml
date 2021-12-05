@@ -8,7 +8,6 @@ filter:
     - 図式コード
   - - 6101
     - 6111
-    - 7201
   - true
   - false
 layout:
@@ -26,8 +25,6 @@ layout:
     - 高塔
     - 6111
     - 電波塔
-    - 7201
-    - アデリーペンギン繁殖地
     - symbol エラー
   text-font:
     - NotoSansCJKjp-Regular
