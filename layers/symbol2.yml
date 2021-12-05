@@ -1,0 +1,27 @@
+id: symbol2
+type: symbol
+source: v
+source-layer: point
+filter: 
+  - match
+  - - get
+    - 図式コード
+  - - 7201
+  - true
+  - false
+layout:
+  icon-image: theatre-15
+  text-offset: 
+    - 0
+    - 1 
+  text-size: 32
+  text-max-width: 32
+  text-field:
+    - match
+    - - get
+      - 図式コード
+    - 7201
+    - アデリーペンギン繁殖地
+    - symbol エラー
+  text-font:
+    - NotoSansCJKjp-Regular
