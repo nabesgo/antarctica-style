@@ -26,4 +26,5 @@ layers:
   - !!inc/file layers/building.yml
   - !!inc/file layers/control.yml
   - !!inc/file layers/symbol.yml
+  - !!inc/file layers/symbol2.yml
   - !!inc/file layers/annotation.yml
